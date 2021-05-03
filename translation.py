@@ -1,7 +1,7 @@
 class Translation(object):
 
       # Start text
-      START = "Hi I am a channel auto forward bot clone of <a href='https://t.me/Autoforward_Nsbot'>Channel Automatic NS bot</a>. \nMake your own bot now 👉 Source code \n\n<b>Support Channel and Groups:</b>\n @Ns_bot_updates, @Ns_Bot_supporters"             
+      START = "Hi, I Am A Robot To Forward Any Contant From Channel [A] TO [B] And My Father Is👉 @ZOK4574  "             
 
       #About text
       ABOUT = """
